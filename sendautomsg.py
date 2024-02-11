@@ -1,3 +1,3 @@
 import pywhatkit as pyw
 
-pyw.sendwhatmsg('+917735292884', 'Testing...', 20, 10)
+pyw.sendwhatmsg('+91..........', 'Testing...', 20, 10) #Add the phone number of the receiver
